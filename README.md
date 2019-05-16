@@ -1,4 +1,4 @@
-# elementary alpha
+# elementary rgb 
 ### **Theme for elementaryOS Juno**
 ![](img/elementary_logo.png)
 
